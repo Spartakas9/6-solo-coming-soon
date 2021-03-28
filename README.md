@@ -9,7 +9,7 @@ _25 Group website project_
 
 This project is for educational porpuses only.
 
-Site published at https://spartakas9.github.io/4-Sign-up/
+Site published at https://spartakas9.github.io/6-solo-coming-soon/
 
 Design: [Coming soon](https://cdn.discordapp.com/attachments/648536139677958156/651479019476221953/coming-soon-wide.png)
 
